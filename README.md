@@ -1,3 +1,8 @@
+# Running the Project
+
+```
+ Please go the Main.java file and click run on eclipse
+```
 # java_phaseone_francogutierrez
 Phase one project (java)
 ## First Menu
